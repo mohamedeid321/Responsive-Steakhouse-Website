@@ -1079,6 +1079,14 @@ padding-top: 50px;
     padding: 60px 0px 50px;
     height: 300px;
 }
+
+
+.reservation-header .reservation-subtitle {
+  text-align: center;
+}
+
+
+
 }
 
 /* For large devices <> */
